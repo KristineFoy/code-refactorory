@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # <code-refactorory>
 
 ## Description
@@ -28,5 +28,3 @@ Develop\assets\images\lead-generation.png
 Develop\assets\images\online-reputation-management.
 Develop\assets\images\search-engine-optimization.jpg
 Develop\assets\images\social-media-marketing.jpg
-
-=======
